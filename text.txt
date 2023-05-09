@@ -1,0 +1,17 @@
+1. Royal Blue: #03256c
+2. Persian Blue: #2541B2
+3. Green Blue: #1768AC
+4. Aero: #06BEE1
+5. White: #FFFFFF
+
+<video autoplay muted loop id="myVideo">
+                <source src="ocean-video.mp4" type="video/mp4">
+            </video>
+
+            <div class="banner-text">
+                <h1 style="font-size:64px">Let's Dive Together</h1><br>
+                <p style="font-size:20px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit mollitia
+                    molestias debitis error magni <br>
+                    necessitatibus suscipit id numquam eos dicta.</p><br>
+                <button>TAKE ACTION</button>
+            </div>
